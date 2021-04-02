@@ -1,0 +1,9 @@
+[submodule "stm32f1-ll"]
+	path = stm32f1-ll
+	url = git@github.com:mixaz/stm32f1-ll.git
+[submodule "MD_Parola"]
+	path = MD_Parola
+	url = git@github.com:mixaz/MD_Parola.git
+[submodule "MD_MAX72XX"]
+	path = MD_MAX72XX
+	url = git@github.com:mixaz/MD_MAX72XX.git
