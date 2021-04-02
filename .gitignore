@@ -1,0 +1,6 @@
+# temp/autosave emacs files
+*~
+*#
+
+CMakeFiles/
+out_ll/
